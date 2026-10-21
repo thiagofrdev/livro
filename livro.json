@@ -1,7 +1,7 @@
 {
-  "titulo": "Caderno de Dev",
+  "titulo": "Coisas de Dev",
   "subtitulo": "Anotações vivas sobre C#, .NET e tudo que aparece no caminho",
-  "autor": "Thiago",
+  "autor": "Thiago F. Ribeiro",
   "repositorio": "",
   "ordemDasPartes": [
     "Fundamentos",
