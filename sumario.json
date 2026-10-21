@@ -1,0 +1,18 @@
+{
+  "partes": [
+    {
+      "nome": "Entity Framework",
+      "notas": [
+        {
+          "caminho": "Entity Framework/Execução adiada.md",
+          "titulo": "Execução adiada",
+          "tags": [
+            "entity-framework",
+            "csharp"
+          ],
+          "atualizado": "2026-10-20"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "titulo": "Caderno de Dev",
+  "subtitulo": "Anotações vivas sobre C#, .NET e tudo que aparece no caminho",
+  "autor": "Thiago",
+  "repositorio": "",
+  "ordemDasPartes": [
+    "Fundamentos",
+    "Entity Framework",
+    "ASP.NET",
+    "Testes",
+    "Docker"
+  ]
+}

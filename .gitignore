@@ -1,0 +1,27 @@
+# Lista de LIBERAÇÃO: tudo fica de fora, a não ser o que está liberado abaixo.
+# Se um arquivo novo não aparece no "git status", é porque ele não está nesta lista.
+*
+
+# Entra nas pastas (as partes do livro)...
+!*/
+
+# ...mas só leva os capítulos
+!*.md
+
+# Imagens dos capítulos
+!/Anexos/*.png
+!/Anexos/*.jpg
+!/Anexos/*.jpeg
+!/Anexos/*.gif
+!/Anexos/*.webp
+!/Anexos/*.svg
+
+# Site
+!/index.html
+!/assets/estilo.css
+!/assets/app.js
+!/livro.json
+!/sumario.json
+!/.nojekyll
+!/.gitignore
+!/.gitattributes
